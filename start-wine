@@ -1,0 +1,1 @@
+proot-distro login ubuntu --shared-tmp --bind /dev/null:/proc/sys/kernal/cap_last_cap
