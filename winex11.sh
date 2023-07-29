@@ -13,4 +13,5 @@ mv wine ~/../usr/bin
 chmod +x ~/../usr/bin/wine
 echo "proot-distro login ubuntu --shared-tmp --bind /dev/null:/proc/sys/kernal/cap_last_cap" >>~/../usr/bin/start-wine
 chmod +x ~/../usr/bin/start-wine
+wget https://github.com/atamshkai/Windows-11-Style-Ubuntu-Jammy-Wine-Gnome-Desktop-For-Termux-x11/raw/main/wine_C0h5NWUF0n.bmp && mkdir /sdcard/download/ImageConverter && mv wine_C0h5NWUF0n.bmp /sdcard/download/ImageConverter
 proot-distro restore /sdcard/download/winex11.tar.xz
