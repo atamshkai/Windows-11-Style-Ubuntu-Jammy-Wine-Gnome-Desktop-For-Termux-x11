@@ -2,7 +2,7 @@
 
 This is a preinstalled Ubuntu Jammy Windows 11 Style Gnome Desktop and Box64Droid Wine Desktop.So with this distro,You can run exe files on your android phone.Before you install this distro on android 12 and 13,disable phantom process killer. 
 
-[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main)
 
 ## Preview
 
